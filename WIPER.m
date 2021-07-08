@@ -1,7 +1,6 @@
 
 clear all
 close all
-% Mechanism sessional Tutorial 5
 % Matlab 01 Wiper Mechanism Visualization
 
 % After setting 14 and its length arbitrarily, use the formula to find the remaining lengths of L2 and L3. To find% 12, use the formula of rocking angle 2"asin(L2/L4).
